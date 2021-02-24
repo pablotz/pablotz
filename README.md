@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hi there, [I'm Pablo][web]  👋
 
 
-**pablotz/pablotz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/PabloTz01?style=social)][twitter]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on [Financial Solutions][financial]
+- 🌱 I’m currently learning about REACT JS
+- 💬 Ask me about web dev 
+- 📫 How to contact me: 
+    - 📄 Curriculum: shorturl.at/qtCX6
+    - 👩🏻‍💻DevTo: https://dev.to/pablotz
+    - 💻Portafolio: http://pablotz.com/
+    - 💼Linkedin: https://www.linkedin.com/in/pablo-hdzc-tz/
+- ⚡ Fun fact: I'm current learning about philosophy 
 
+---
+### Knowledge 📖
+<img src="https://img.icons8.com/officel/60/000000/react.png"/>
+<img src="https://img.icons8.com/dusk/60/000000/html-5.png"/>
+<img src="https://img.icons8.com/dusk/60/000000/javascript-logo.png"/>
+<img src="https://img.icons8.com/dusk/60/000000/css3.png"/>
+<img src="https://img.icons8.com/dusk/60/000000/java.png"/>
+<img src="https://img.icons8.com/dusk/60/000000/selenium-test-automation.png"/>
+<img src="https://img.icons8.com/color/60/000000/nodejs.png"/>
+<img src="https://img.icons8.com/dusk/60/000000/sql.png"/>
+
+<!-- Links -->
+
+[web]:http://pablotz.com/
+[twitter]:https://twitter.com/PabloTz01
+[financial]:https://www.financialsolutions.mx/
