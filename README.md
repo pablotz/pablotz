@@ -16,14 +16,14 @@
 
 ---
 ### Knowledge 📖
-<img src="https://img.icons8.com/officel/60/000000/react.png"/>
-<img src="https://img.icons8.com/dusk/60/000000/html-5.png"/>
-<img src="https://img.icons8.com/dusk/60/000000/javascript-logo.png"/>
-<img src="https://img.icons8.com/dusk/60/000000/css3.png"/>
-<img src="https://img.icons8.com/dusk/60/000000/java.png"/>
-<img src="https://img.icons8.com/dusk/60/000000/selenium-test-automation.png"/>
-<img src="https://img.icons8.com/color/60/000000/nodejs.png"/>
-<img src="https://img.icons8.com/dusk/60/000000/sql.png"/>
+<img src="https://img.icons8.com/officel/40/000000/react.png"/>
+<img src="https://img.icons8.com/dusk/40/000000/html-5.png"/>
+<img src="https://img.icons8.com/dusk/40/000000/javascript-logo.png"/>
+<img src="https://img.icons8.com/dusk/40/000000/css3.png"/>
+<img src="https://img.icons8.com/dusk/40/000000/java.png"/>
+<img src="https://img.icons8.com/dusk/40/000000/selenium-test-automation.png"/>
+<img src="https://img.icons8.com/color/40/000000/nodejs.png"/>
+<img src="https://img.icons8.com/dusk/40/000000/sql.png"/>
 
 <!-- Links -->
 
