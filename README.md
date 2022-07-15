@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/PabloTz01?style=social)][twitter]
 
 
-- 🔭 I’m currently working on [Financial Solutions][financial]
+- 🔭 I’m currently working at [Ellucian][https://www.ellucian.com/]
 - 🌱 I’m currently learning about REACT JS
 - 💬 Ask me about web dev 
 - 📫 How to contact me: 
