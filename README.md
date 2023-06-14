@@ -1,7 +1,7 @@
 ## Hi there, [I'm Pablo][web]  👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/PabloTz01?style=social)][twitter]
+[![Twitter Follow](https://img.shields.io/twitter/follow/PabloTz_?style=social)][twitter]
 
 
 - 🔭 I’m currently working at [Ellucian](https://www.ellucian.com/)
@@ -12,7 +12,6 @@
     - 👩🏻‍💻DevTo: https://dev.to/pablotz
     - 💻Portafolio: http://pablotz.com/
     - 💼Linkedin: https://www.linkedin.com/in/pablo-hdzc-tz/
-- ⚡ Fun fact: I'm current learning about philosophy 
 
 ---
 ### Knowledge 📖
@@ -30,7 +29,4 @@
 </div>
 
 <!-- Links -->
-
-[web]:http://pablotz.com/
-[twitter]:https://twitter.com/PabloTz01
-[financial]:https://www.financialsolutions.mx/
+[twitter]:https://twitter.com/PabloTz_
