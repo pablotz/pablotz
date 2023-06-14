@@ -20,7 +20,6 @@
     <img width="60" src="https://img.icons8.com/dusk/60/000000/html-5.png"/>
     <img width="60" src="https://img.icons8.com/dusk/60/000000/javascript-logo.png"/>
     <img width="60" src="https://img.icons8.com/dusk/60/000000/css3.png"/>
-    <img width="60" src="https://img.icons8.com/dusk/60/000000/java.png"/>
     <img width="60" src="https://img.icons8.com/dusk/60/000000/selenium-test-automation.png"/>
     <img width="60" src="https://img.icons8.com/color/60/000000/nodejs.png"/>
     <img width="60" src="https://img.icons8.com/dusk/60/000000/sql.png"/>
