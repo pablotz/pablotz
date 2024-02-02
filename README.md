@@ -1,4 +1,4 @@
-## Hi there, [I'm Pablo][web]  👋
+## Hi there, [I'm Pablo](https://pablotz.github.io/) 👋
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PabloTz_?style=social)][twitter]
