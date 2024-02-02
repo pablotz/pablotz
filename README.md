@@ -9,7 +9,6 @@
 - 💬 Ask me about web dev 
 - 📫 How to contact me: 
     - 👩🏻‍💻DevTo: https://dev.to/pablotz
-    - 💻Portafolio: http://pablotz.com/
     - 💼Linkedin: https://www.linkedin.com/in/pablo-hdzc-tz/
 
 ---
