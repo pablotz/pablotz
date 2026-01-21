@@ -9,7 +9,7 @@
 - 💬 Ask me about web dev 
 - 📫 How to contact me: 
     - 👩🏻‍💻DevTo: https://dev.to/pablotz
-    - 💼Linkedin: https://www.linkedin.com/in/pablo-hdzc-tz/
+    - 💼Linkedin: https://www.linkedin.com/in/pablo-hdzc/
 
 ---
 ### Knowledge 📖
