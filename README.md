@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working at [Ellucian](https://www.ellucian.com/)
-- 🌱 I’m currently learning about REACT JS
+- 🌱 I’m currently learning about GO
 - 💬 Ask me about web dev 
 - 📫 How to contact me: 
     - 👩🏻‍💻DevTo: https://dev.to/pablotz
