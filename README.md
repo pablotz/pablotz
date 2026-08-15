@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/PabloTz_?style=social)][twitter]
 
 
-- 🔭 I’m currently working at [Ellucian](https://www.ellucian.com/)
+- 🔭 I’m currently working at [Confiz](https://www.confiz.com/)
 - 🌱 I’m currently learning about GO
 - 💬 Ask me about web dev 
 - 📫 How to contact me: 
